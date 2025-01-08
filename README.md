@@ -1,4 +1,3 @@
-# ExpenseTracker_APi
 
 
 # Expense Tracker API
